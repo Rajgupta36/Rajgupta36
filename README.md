@@ -3,7 +3,10 @@ src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" 
 <br />
 
 <p align="center">
-  <a></a>
+  <a href="https://x.com/LevelUpRaaz/">
+    <img alt="X" title="x" height="48" width="48" src="https://cdn.simpleicons.org/x/white"></a>
+  <a href="mailto:raj.gupta369@outlook.com">
+    <img alt="mail" title="mail" height="48" width="48" src="https://cdn.simpleicons.org/gmail"></a>
   <a href="https://github.com/Rajgupta36">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
