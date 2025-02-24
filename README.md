@@ -22,21 +22,10 @@ I am Raj Gupta, a MERN stack and Next.js developer. Currently expanding my techn
 
 🤖 My latest endeavor is developing a GitHub Automation Tool, a project driven by my commitment to streamline development workflows. I believe in using automation for enhanced productivity, and this tool represents my vision for making development processes more efficient and accessible.
 
-## 🌱 Learning Journey
-
-🚀 My quest for knowledge is never-ending. I'm constantly diving into the latest developments in devops and web3. Whether it's the newest new stakc or a coding challenge, I'm up for the challenge.
 
 ## 👯 Let's Collaborate
 
 💡 I'm on the lookout for collaborative opportunities in the world of open source projects. If you share my passion for web development, DevOps, or Web3. or just want to build cool things together, let's connect! Feel free to reach out at [raj.gupta369@outlook.com](mailto:raj.gupta369@outlook.com).
-
-## 🎓 Academic Pursuits
-
-📚 I am currently pursuing my B.Tech in CSE, with a focus on building responsive and scalable web applications. My projects revolve around crafting dynamic interfaces and optimizing performance for scalable web solutions. I’m passionate about developing tools that enhance user experiences in real-world applications, from interactive dashboards to seamless e-commerce platforms. Whether it's fine-tuning frontend designs or tackling backend logic, I thrive on creating impactful solutions. Feel free to pick my brain about the latest web development trends or share your insights—I’m all ears!!
-
-## ⚡ Fun Facts
-
-🎵 Music and ☮️ meditation are the anchors of my life, offering the perfect balance of rhythm, excitement, and calmness to fuel my creativity and keep me grounded. And yes, when it comes to procrastination, I like to think of it as creative planning in disguise! 🤣
 
 ---
 
