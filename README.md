@@ -18,7 +18,7 @@ src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" 
 
 ## 🧠 About Me
 
-I am Raj Gupta, a MERN stack and Next.js developer. Currently expanding my technical horizons by delving into DevOps methodologies and cloud infrastructure automation to make scalable and efficient applications.
+I am Raj Gupta, a MERN ,Django and Next.js developer. Currently expanding my technical horizons by delving into DevOps methodologies and cloud infrastructure automation to make scalable and efficient applications.
 
 🤖 My latest endeavor is developing a GitHub Automation Tool, a project driven by my commitment to streamline development workflows. I believe in using automation for enhanced productivity, and this tool represents my vision for making development processes more efficient and accessible.
 
