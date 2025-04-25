@@ -11,9 +11,6 @@ src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" 
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
-  <a href="https://www.linkedin.com/in/neucleophile/">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
-
 </p>
 
 ## 🧠 About Me
