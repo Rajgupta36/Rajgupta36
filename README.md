@@ -44,11 +44,13 @@ if it can be scripted, i'm scripting it.
 
 ## open source
 
-- **[OWASP/Nest](https://github.com/OWASP/Nest)** — gsoc hub. [merged prs](https://github.com/OWASP/Nest/pulls?q=is%3Apr+author%3ARajgupta36+is%3Amerged)
-- **[AOSSIE-Org/PictoPy](https://github.com/AOSSIE-Org/PictoPy)** — setup, docker, docs, filtering ([#119](https://github.com/AOSSIE-Org/PictoPy/pull/119))
-- **[code100x/cms](https://github.com/code100x/cms)** — video autoplay on hover ([#481](https://github.com/code100x/cms/pull/481))
+- **[OWASP/Nest](https://github.com/OWASP/Nest)** — gsoc '25 contribution hub
+- **[AOSSIE-Org/PictoPy](https://github.com/AOSSIE-Org/PictoPy)** — privacy-first photo manager. setup, docker, docs, filtering
+- **[code100x/cms](https://github.com/code100x/cms)** — video autoplay on hover
 
 ## work that paid rent
+
+**gsoc '25 / [owasp nest](https://nest.owasp.org)** — contribution hub end-to-end: 50+ merges, 68+ playwright tests, led the react → next rewrite. funded work that shipped.
 
 **chatarmin** — owned the ugly stuff: strapi→sanity (1k+ docs), help center ~1200ms→~80ms, ~500k-ticket migrations, SEO that wasn't "add keywords" ([pow](https://rajgupta.site/pow)).
 
