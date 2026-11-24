@@ -6,7 +6,7 @@ Pixel / CRT GIFs: see media/gifs/SOURCES.txt — none AI-generated.
 
 **software engineer.** i make AI write a lot of the code, then i break it until it's real.
 
-also: [chatarmin](https://chatarmin.com) in vienna — migrations, technical SEO, making the platform actually fast.
+also: building @voiceprint and [chatarmin](https://chatarmin.com) in vienna — migrations, technical SEO, making the platform actually fast.
 
 [portfolio](https://rajgupta.site) · [x](https://x.com/_rajtwt) · [linkedin](https://www.linkedin.com/in/raajguptaa/)
 
@@ -15,6 +15,7 @@ raj96yt@gmail.com
 ## right now
 
 cooking:
+
 
 - automating a youtube channel end-to-end — video gen included
 - shipping ~2 ios apps a month
