@@ -1,7 +1,5 @@
 <!--
-88x31 badges: https://cyber.dabamos.de/88x31/ (copy ok; don't hotlink).
-Pixel GIFs: GifCities / Internet Archive GeoCities.
-See media/badges/SOURCES.txt and media/gifs/SOURCES.txt — none AI-generated.
+Pixel / CRT GIFs: see media/gifs/SOURCES.txt — none AI-generated.
 -->
 
 # hey, i'm raj
@@ -48,6 +46,7 @@ cooking:
 <p align="center">
   <img src="./media/gifs/pixel-desk-setup.gif" alt="desk" height="64" />
   &nbsp;
-  <img src="./media/badges/w3c-html.gif" alt="valid html" />
-  <img src="./media/badges/w3c-css.gif" alt="valid css" />
+  <img src="./media/gifs/pixel-smiling-computer.gif" alt="computer cooking" height="72" />
+  &nbsp;
+  <img src="./media/gifs/cooking.gif" alt="cooking" height="32" />
 </p>

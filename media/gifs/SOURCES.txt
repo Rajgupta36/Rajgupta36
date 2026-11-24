@@ -1,6 +1,9 @@
 Non-rectangle GIFs used in this README.
 
-- terminal-scanline.gif — custom CRT grid banner (not the old GifCities kill/hate loop)
-- pixel-desk-setup.gif — pixel desk, copied from GifCities / Internet Archive GeoCities (https://gifcities.org/)
+- terminal-scanline.gif — custom CRT banner: "if it can be automated, i'll automate it"
+- cooking.gif — custom CRT blinkie
+- pixel-desk-setup.gif — pixel desk, GifCities / Internet Archive GeoCities
+- pixel-smiling-computer.gif — typing PC character, GifCities / Internet Archive GeoCities
 
+GifCities source: https://gifcities.org/
 None of these are AI-generated images of people.
