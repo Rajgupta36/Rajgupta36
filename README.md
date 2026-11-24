@@ -20,8 +20,6 @@ spent the last stretch at [chatarmin](https://chatarmin.com) in vienna — migra
   <img src="./media/right-now.png" alt="YouTube automation · iOS apps · job-lead automation" width="100%" />
 </p>
 
-<!-- optional richer hero: ./media/right-now-hero.jpg -->
-
 cooking in public:
 
 - **automating a youtube channel** end-to-end — video generation included
