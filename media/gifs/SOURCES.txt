@@ -3,11 +3,7 @@ Non-rectangle GIFs used in this README.
 Copied from GifCities / Internet Archive GeoCities (https://gifcities.org/).
 Do not hotlink archive blobs.
 
-- pixel-computer-typing.gif — CRT + floppy desk
-- pixel-smiling-computer.gif — smiling PC typing
-- pixel-desk-setup.gif — pixel desk
 - terminal-scanline.gif — green grid divider
-- blinkie-working.gif — "working" blinkie
-- floppy-spin.gif — spinning 3.5" floppy
+- pixel-desk-setup.gif — pixel desk
 
 None AI-generated.

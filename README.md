@@ -1,18 +1,8 @@
 <!--
 88x31 badges: https://cyber.dabamos.de/88x31/ (copy ok; don't hotlink).
-Pixel / blinkie / floppy GIFs: GifCities / Internet Archive GeoCities.
+Pixel GIFs: GifCities / Internet Archive GeoCities.
 See media/badges/SOURCES.txt and media/gifs/SOURCES.txt — none AI-generated.
 -->
-
-<p align="center">
-  <img src="./media/gifs/pixel-computer-typing.gif" alt="crt typing" height="72" />
-  &nbsp;
-  <img src="./media/badges/notepad.gif" alt="notepad" />
-  <img src="./media/badges/linux-powered.gif" alt="linux" />
-  <img src="./media/badges/javascript.gif" alt="javascript" />
-  &nbsp;
-  <img src="./media/gifs/floppy-spin.gif" alt="floppy" height="48" />
-</p>
 
 # hey, i'm raj
 
@@ -22,10 +12,6 @@ also: [chatarmin](https://chatarmin.com) in vienna — migrations, technical SEO
 
 [site](https://rajgupta.site) · [x](https://x.com/_rajtwt) · [linkedin](https://www.linkedin.com/in/raajguptaa/) · [mail](mailto:raj96yt@gmail.com)
 
-<p align="center">
-  <img src="./media/gifs/blinkie-working.gif" alt="working" />
-</p>
-
 ## right now
 
 cooking:
@@ -33,6 +19,7 @@ cooking:
 - automating a youtube channel end-to-end — video gen included
 - shipping ~2 ios apps a month
 - automating job-search leads so outreach isn't a full-time job
+- learning marketing
 
 if it can be scripted, i'm scripting it.
 
@@ -45,15 +32,6 @@ if it can be scripted, i'm scripting it.
 - **[CFD](https://github.com/Rajgupta36/CFD)** — rust trading engine. 50k+ evt/s. built it to feel what realtime costs.
 - **[Safka](https://github.com/Rajgupta36/Safka)** — kafka, but small, and i wrote the broker. rust/tokio.
 - **[Mux-RAG](https://github.com/Rajgupta36/mux-rag)** — multimodal rag over pdfs. text, tables, images → answer.
-
-<p align="center">
-  <img src="./media/gifs/pixel-smiling-computer.gif" alt="pc typing" height="88" />
-  &nbsp;
-  <img src="./media/badges/html.gif" alt="html" />
-  <img src="./media/badges/css.gif" alt="css" />
-  <img src="./media/badges/get-java.gif" alt="java" />
-  <img src="./media/badges/gnu-linux.gif" alt="gnu linux" />
-</p>
 
 ## open source
 
