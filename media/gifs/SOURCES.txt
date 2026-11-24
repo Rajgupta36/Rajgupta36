@@ -1,9 +1,6 @@
 Non-rectangle GIFs used in this README.
 
-Copied from GifCities / Internet Archive GeoCities (https://gifcities.org/).
-Do not hotlink archive blobs.
+- terminal-scanline.gif — custom CRT grid banner (not the old GifCities kill/hate loop)
+- pixel-desk-setup.gif — pixel desk, copied from GifCities / Internet Archive GeoCities (https://gifcities.org/)
 
-- terminal-scanline.gif — green grid divider
-- pixel-desk-setup.gif — pixel desk
-
-None AI-generated.
+None of these are AI-generated images of people.

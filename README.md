@@ -21,10 +21,8 @@ cooking:
 - automating job-search leads so outreach isn't a full-time job
 - learning marketing
 
-if it can be scripted, i'm scripting it.
-
 <p align="center">
-  <img src="./media/gifs/terminal-scanline.gif" alt="" width="420" />
+  <img src="./media/gifs/terminal-scanline.gif" alt="if it can be automated, i'll automate it" width="540" />
 </p>
 
 ## projects
