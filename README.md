@@ -1,97 +1,81 @@
-<!-- Profile README for github.com/Rajgupta36 — media/ ships with this file so ./media paths resolve. -->
+<!--
+Classic Web 1.0 badges are REAL downloads (not AI-generated):
+- 88x31 buttons from https://cyber.dabamos.de/88x31/
+  ("Feel free to copy buttons to your website, but avoid hot-linking")
+- under-construction / fire bars from http://textfiles.com/underconstruction/
+  (Archive Team GeoCities rescue)
+See media/badges/SOURCES.txt
+-->
 
 <p align="center">
-  <img src="./media/raj-profile-banner.png" alt="Raj Gupta" width="100%" />
+  <img src="./media/badges/under-construction.gif" alt="under construction" />
+  <img src="./media/badges/hot.gif" alt="hot" />
+  <img src="./media/badges/hot-100.gif" alt="100 hot" />
+  <img src="./media/badges/hardhat.gif" alt="hard hat" />
+</p>
+
+<p align="center">
+  <img src="./media/badges/fire-bar.gif" alt="fire bar" />
 </p>
 
 # hey, i'm raj
 
-software engineer. i make AI write a lot of the code, then i break it until it's real.
+software engineer. AI writes a lot of the code — i break it until it's real.
 
-spent the last stretch at [chatarmin](https://chatarmin.com) in vienna — migrations, technical SEO, making the platform actually fast. before that: [gsoc '25 @ owasp nest](https://summerofcode.withgoogle.com/programs/2025/projects/pZB3XGpa).
+ex [chatarmin](https://chatarmin.com) (vienna) · [gsoc '25 @ owasp nest](https://summerofcode.withgoogle.com/programs/2025/projects/pZB3XGpa)
 
-[rajgupta.site](https://rajgupta.site) · [x](https://x.com/_rajtwt) · [linkedin](https://www.linkedin.com/in/raajguptaa/) · [mail](mailto:raj96yt@gmail.com)
+[site](https://rajgupta.site) · [x](https://x.com/_rajtwt) · [linkedin](https://www.linkedin.com/in/raajguptaa/) · [mail](mailto:raj96yt@gmail.com)
 
 ---
 
 ## right now
 
+- youtube channel automation (+ video gen)
+- ~2 ios apps / month
+- job-lead outreach scripts
+
 <p align="center">
-  <img src="./media/right-now.png" alt="YouTube automation · iOS apps · job-lead automation" width="100%" />
+  <img src="./media/badges/construct-line.gif" alt="construction line" width="100%" />
 </p>
-
-cooking in public:
-
-- **automating a youtube channel** end-to-end — video generation included
-- **shipping ~2 ios apps a month**
-- **automating job-search leads** so outreach isn't a full-time job
-
-if it can be scripted, i'm scripting it. if AI can draft it, i let it — then i check the work.
-
----
 
 ## projects
 
-the ones that matter:
+- **[CFD](https://github.com/Rajgupta36/CFD)** — rust trading engine · 50k+ evt/s
+- **[Safka](https://github.com/Rajgupta36/Safka)** — kafka-ish broker from scratch (rust/tokio)
+- **[Mux-RAG](https://github.com/Rajgupta36/mux-rag)** — multimodal rag over pdfs
+
+## receipts
+
+chatarmin: **1k+** docs migrated · help center **~1.2s → ~80ms** · **~500k** tickets · crawl budget **70%** fixed  
+→ [pow](https://rajgupta.site/pow)
+
+owasp nest: **50+** merged prs · **68+** playwright tests · react→next in ~3 weeks
+
+---
 
 <p align="center">
-  <a href="https://github.com/Rajgupta36/CFD">
-    <img src="./media/card-cfd.png" alt="CFD — trading engine" width="32%" />
-  </a>
-  <a href="https://github.com/Rajgupta36/Safka">
-    <img src="./media/card-safka.png" alt="Safka — kafka-inspired broker" width="32%" />
-  </a>
-  <a href="https://github.com/Rajgupta36/mux-rag">
-    <img src="./media/card-muxrag.png" alt="Mux-RAG — multimodal RAG" width="32%" />
-  </a>
+  <img src="./media/badges/netscape-now.gif" alt="netscape now" />
+  <img src="./media/badges/ie4.gif" alt="internet explorer" />
+  <img src="./media/badges/winzip-badge.gif" alt="winzip" />
+  <img src="./media/badges/windows95.gif" alt="windows 95" />
+  <img src="./media/badges/acrobat.gif" alt="acrobat reader" />
+  <img src="./media/badges/get-flash.gif" alt="get flash" />
+  <img src="./media/badges/get-java.gif" alt="get java" />
+  <img src="./media/badges/w3c-html.gif" alt="valid html" />
+  <img src="./media/badges/w3c-css.gif" alt="valid css" />
+  <img src="./media/badges/any-browser.gif" alt="any browser" />
+  <img src="./media/badges/geocities-badge.gif" alt="geocities" />
+  <img src="./media/badges/linux-powered.gif" alt="linux powered" />
+  <img src="./media/badges/hit-counter.gif" alt="web counter" />
+  <img src="./media/badges/best-viewed.gif" alt="best viewed" />
+  <img src="./media/badges/notepad.gif" alt="notepad" />
+  <img src="./media/badges/yahoo.gif" alt="yahoo" />
 </p>
-
-### [CFD](https://github.com/Rajgupta36/CFD)
-trading execution engine in rust/tokio. was pushing **50k+ events/sec**, redis streams + timescaledb, websocket updates under 100ms. built it to feel what "realtime" actually costs.
-
-### [Safka](https://github.com/Rajgupta36/Safka)
-kafka, but small, and i wrote the broker myself. rust + tokio — partitions, consumer groups, offsets, acks.
-
-### [Mux-RAG](https://github.com/Rajgupta36/mux-rag)
-multimodal rag over pdfs — text, tables, images. pull top 10 chunks, rerank to 3, answer. python / langchain / openai.
-
-more random builds: [rajgupta.site/projects](https://rajgupta.site/projects)
-
----
-
-## work that paid rent
 
 <p align="center">
-  <img src="./media/receipts.png" alt="Chatarmin receipts — 1k+ docs, ~80ms help center, ~500k tickets, 70% crawl budget" width="100%" />
+  <img src="./media/badges/under-construction-bar.gif" alt="under construction bar" />
 </p>
 
-at chatarmin i owned the ugly stuff:
-
-- strapi → sanity (**1k+ docs**, 100+ schemas, zero drama if i did it right)
-- help center **~1200ms → ~80ms**
-- support migrations up to **~500k tickets** (helpscout / zendesk / gorgias / …)
-- seo engineering that wasn't "add keywords" — crawl budget (googlebot was wasting **70%** of **1.2M+** hits on a widget host), sitemaps **150 → 743** urls, ssr schema, lcp work
-
-long version with receipts: [rajgupta.site/pow](https://rajgupta.site/pow)
-
----
-
-## open source
-
-gsoc 2025 on [owasp nest](https://nest.owasp.org) — mentorship / contribution hub.
-
-react → next rebuild in ~3 weeks. **50+** merged prs. **68+** playwright tests. django models + slack automation.
-
-[prs](https://github.com/OWASP/Nest/pulls?q=is%3Apr+author%3ARajgupta36+is%3Amerged)
-
----
-
-## stack
-
-typescript, rust, python, sql · next/react/node · postgres/redis · tokio · langchain · docker/aws/cloudflare
-
-i don't collect badges. i ship.
-
----
-
-wanna talk? **raj96yt@gmail.com**
+<p align="center">
+  <sub>this page is under construction forever · please come back later</sub>
+</p>
