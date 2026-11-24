@@ -1,23 +1,30 @@
 <!--
-88x31 badges from https://cyber.dabamos.de/88x31/ (copy ok; don't hotlink).
-See media/badges/SOURCES.txt — none AI-generated.
+88x31 badges: https://cyber.dabamos.de/88x31/ (copy ok; don't hotlink).
+Pixel / blinkie / floppy GIFs: GifCities / Internet Archive GeoCities.
+See media/badges/SOURCES.txt and media/gifs/SOURCES.txt — none AI-generated.
 -->
 
 <p align="center">
+  <img src="./media/gifs/pixel-computer-typing.gif" alt="crt typing" height="72" />
+  &nbsp;
   <img src="./media/badges/notepad.gif" alt="notepad" />
   <img src="./media/badges/linux-powered.gif" alt="linux" />
   <img src="./media/badges/javascript.gif" alt="javascript" />
+  &nbsp;
+  <img src="./media/gifs/floppy-spin.gif" alt="floppy" height="48" />
 </p>
 
 # hey, i'm raj
 
-**google summer of code '25 @ [owasp nest](https://nest.owasp.org).** shipped the contribution hub — 50+ merged prs, 68+ playwright tests, led the react → next rebuild. that one's real work.
-
-software engineer. i make AI write a lot of the code, then i break it until it's real.
+**software engineer.** i make AI write a lot of the code, then i break it until it's real.
 
 also: [chatarmin](https://chatarmin.com) in vienna — migrations, technical SEO, making the platform actually fast.
 
 [site](https://rajgupta.site) · [x](https://x.com/_rajtwt) · [linkedin](https://www.linkedin.com/in/raajguptaa/) · [mail](mailto:raj96yt@gmail.com)
+
+<p align="center">
+  <img src="./media/gifs/blinkie-working.gif" alt="working" />
+</p>
 
 ## right now
 
@@ -29,6 +36,10 @@ cooking:
 
 if it can be scripted, i'm scripting it.
 
+<p align="center">
+  <img src="./media/gifs/terminal-scanline.gif" alt="" width="420" />
+</p>
+
 ## projects
 
 - **[CFD](https://github.com/Rajgupta36/CFD)** — rust trading engine. 50k+ evt/s. built it to feel what realtime costs.
@@ -36,6 +47,8 @@ if it can be scripted, i'm scripting it.
 - **[Mux-RAG](https://github.com/Rajgupta36/mux-rag)** — multimodal rag over pdfs. text, tables, images → answer.
 
 <p align="center">
+  <img src="./media/gifs/pixel-smiling-computer.gif" alt="pc typing" height="88" />
+  &nbsp;
   <img src="./media/badges/html.gif" alt="html" />
   <img src="./media/badges/css.gif" alt="css" />
   <img src="./media/badges/get-java.gif" alt="java" />
@@ -44,7 +57,7 @@ if it can be scripted, i'm scripting it.
 
 ## open source
 
-- **[OWASP/Nest](https://github.com/OWASP/Nest)** — gsoc '25 contribution hub
+- **[OWASP/Nest](https://github.com/OWASP/Nest)** — contribution hub
 - **[AOSSIE-Org/PictoPy](https://github.com/AOSSIE-Org/PictoPy)** — privacy-first photo manager. setup, docker, docs, filtering
 - **[code100x/cms](https://github.com/code100x/cms)** — video autoplay on hover
 
@@ -57,6 +70,8 @@ if it can be scripted, i'm scripting it.
 ---
 
 <p align="center">
+  <img src="./media/gifs/pixel-desk-setup.gif" alt="desk" height="64" />
+  &nbsp;
   <img src="./media/badges/w3c-html.gif" alt="valid html" />
   <img src="./media/badges/w3c-css.gif" alt="valid css" />
 </p>
